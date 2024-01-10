@@ -1,0 +1,52 @@
+{
+    "register_exam": [
+        "I want to register for the next exam in biology.",
+        "How can I enroll in the upcoming examination?",
+        "Could you help me sign up for the math exam?",
+        "I need to apply for the physics examination.",
+        "Please register me for the chemistry exam."
+    ],
+    "deregister_exam": [
+        "I need to deregister from the English exam.",
+        "Please remove me from the exam list for history.",
+        "I need to cancel my registration for the upcoming calculus exam.",
+        "Can you help me withdraw from the Physics 101 exam next week?",
+        "I've decided to deregister from the biology exam scheduled for tomorrow.",
+        "Please remove me from the list of students taking the chemistry examination.",
+        "I won't be able to attend the final English exam, so I need to deregister."
+    ],
+    "query_exam_status": [
+        "Can you check my exam status for the biology course?",
+        "Am I registered for the math examination?",
+        "What is my enrollment status for the physics exam?",
+        "Am I registered for the next exam?",
+        "What's my registration status for course 102?",
+        "Can you check if I'm signed up for the exam?"
+    ],
+    "query_exam_grade": [
+        "Could you tell me my grade in the last biology exam?",
+        "What score did I get on the math exam?",
+        "I'd like to know the result of my physics exam.",
+        "What grade did I get in course 101?",
+        "Can you tell me my grade for the last exam?",
+        "I'd like to know my exam results."
+    ],
+    "change_address": [
+        "I need to update my address to a new location.",
+        "Can you change my address in your records?",
+        "I've moved to a new house and need to update my details.",
+        "I've recently moved to a new house and need to update my address details in your records.",
+        "Can you change my address to Steinstraße 77, as I have relocated?",
+        "Please update my contact information with my new address: Borsigplatz 1.",
+        "I need to modify my current address to reflect my recent move to Hansestraße 12.",
+        "My address has changed to An der Palmweide 55; how can I update this in my profile?"
+    ],
+    "change_surname": [
+        "I got married and need to change my surname.",
+        "Please update my surname to Smith.",
+        "I've recently divorced and need to revert to my maiden name.",
+        "I need to change my surname in the records.",
+        "Can you update my last name to Smith?",
+        "How do I go about changing my surname here?"
+    ]
+}
