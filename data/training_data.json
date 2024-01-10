@@ -4,7 +4,20 @@
         "How can I enroll in the upcoming examination?",
         "Could you help me sign up for the math exam?",
         "I need to apply for the physics examination.",
-        "Please register me for the chemistry exam."
+        "Please register me for the chemistry exam.",
+        "I am looking for a way to register for my computer science class.",
+        "Where to register for exams?",
+        "Please help me register for my exams!",
+        "I'd like to sign up for the upcoming math exam.",
+        "Can you help me register for the biology exam next month?",
+        "I want to enroll in the English literature exam.",
+        "Please register me for the chemistry exam.",
+        "How do I sign up for the physics exam?",
+        "I need to register for the calculus exam.",
+        "Could you assist me in registering for the history exam?",
+        "I'm looking to enroll in the geography exam.",
+        "Sign me up for the computer science exam, please.",
+        "What's the process to register for the sociology exam?"
     ],
     "deregister_exam": [
         "I need to deregister from the English exam.",
@@ -13,7 +26,17 @@
         "Can you help me withdraw from the Physics 101 exam next week?",
         "I've decided to deregister from the biology exam scheduled for tomorrow.",
         "Please remove me from the list of students taking the chemistry examination.",
-        "I won't be able to attend the final English exam, so I need to deregister."
+        "I won't be able to attend the final English exam, so I need to deregister.",
+        "I need to cancel my registration for the math exam.",
+        "How can I deregister from the biology exam?",
+        "Please remove my name from the English literature exam list.",
+        "I won't be able to take the chemistry exam, please deregister me.",
+        "Cancel my physics exam registration.",
+        "I've changed my mind about the calculus exam, please deregister.",
+        "Could you help me cancel my history exam registration?",
+        "I no longer wish to take the geography exam.",
+        "Please deregister me from the computer science exam.",
+        "I need to withdraw from the sociology exam."
     ],
     "query_exam_status": [
         "Can you check my exam status for the biology course?",
@@ -21,7 +44,17 @@
         "What is my enrollment status for the physics exam?",
         "Am I registered for the next exam?",
         "What's my registration status for course 102?",
-        "Can you check if I'm signed up for the exam?"
+        "Can you check if I'm signed up for the exam?",
+        "What's the status of my math exam registration?",
+        "Can you tell me if I'm registered for the biology exam?",
+        "Is my application for the English literature exam confirmed?",
+        "Have I been registered for the chemistry exam?",
+        "I'd like to know the status of my physics exam registration.",
+        "Can you check if my calculus exam registration went through?",
+        "Am I on the list for the history exam?",
+        "Could you verify my registration for the geography exam?",
+        "Is my computer science exam registration complete?",
+        "I want to check the status of my sociology exam registration."
     ],
     "query_exam_grade": [
         "Could you tell me my grade in the last biology exam?",
@@ -29,7 +62,17 @@
         "I'd like to know the result of my physics exam.",
         "What grade did I get in course 101?",
         "Can you tell me my grade for the last exam?",
-        "I'd like to know my exam results."
+        "I'd like to know my exam results.",
+        "Can you tell me my grade for the math exam?",
+        "What score did I get in the biology exam?",
+        "I'd like to know my English literature exam results.",
+        "Please provide my chemistry exam grade.",
+        "What was my grade in the physics exam?",
+        "Can I see my calculus exam results?",
+        "How did I do in the history exam?",
+        "What are my grades for the geography exam?",
+        "Can you show me my computer science exam score?",
+        "I need to know my sociology exam results."
     ],
     "change_address": [
         "I need to update my address to a new location.",
@@ -39,7 +82,17 @@
         "Can you change my address to Steinstraße 77, as I have relocated?",
         "Please update my contact information with my new address: Borsigplatz 1.",
         "I need to modify my current address to reflect my recent move to Hansestraße 12.",
-        "My address has changed to An der Palmweide 55; how can I update this in my profile?"
+        "My address has changed to An der Palmweide 55; how can I update this in my profile?",
+        "I need to update my home address in your records.",
+        "Please change my address to a new location.",
+        "I've moved recently, can you update my address?",
+        "My address has changed, please update it in your system.",
+        "I would like to provide a new address for my account.",
+        "Can you change my address to my new residence?",
+        "I've relocated, please update my address details.",
+        "Please replace my old address with my new one.",
+        "I have a new address, can you update it in your database?",
+        "Change my address in your records, I've moved."
     ],
     "change_surname": [
         "I got married and need to change my surname.",
@@ -47,6 +100,38 @@
         "I've recently divorced and need to revert to my maiden name.",
         "I need to change my surname in the records.",
         "Can you update my last name to Smith?",
-        "How do I go about changing my surname here?"
+        "How do I go about changing my surname here?",
+        "I've changed my surname, can you update it?",
+        "Please update my profile with my new surname.",
+        "I need to change my surname in your records.",
+        "My surname has changed, please update it.",
+        "Can you change my surname in your system?",
+        "I'd like to update my surname, what's the process?",
+        "Please replace my old surname with my new one.",
+        "I have a new surname, can you update your records?",
+        "Change my surname in your database, it's been legally changed.",
+        "How do I go about changing my surname in your records?"
+    ],
+    "suggest_course": [
+        "Can you suggest a course for me based on my interests in math?",
+        "I'm looking for course recommendations in biology.",
+        "What courses would you suggest for someone interested in English literature?",
+        "Can you recommend some good courses in chemistry?",
+        "I need suggestions for physics courses.",
+        "What calculus courses do you recommend for beginners?",
+        "I'm interested in history, can you suggest relevant courses?",
+        "Please suggest some geography courses for me.",
+        "I'm looking for computer science courses, any recommendations?",
+        "What sociology courses would you suggest for an advanced student?",
+        "Could you recommend a course that complements my major in math?",
+        "I am looking for advanced courses in biology, any suggestions?",
+        "What beginner courses in English literature would you recommend?",
+        "I'm interested in environmental science, can you suggest related courses?",
+        "Are there any interesting elective courses in chemistry I can take?",
+        "What are the best courses for someone with a keen interest in physics?",
+        "Can you help me find courses that focus on modern history?",
+        "I'd like to explore courses in geography, especially in cartography.",
+        "What are some popular computer science courses for non-majors?",
+        "Can you suggest any interdisciplinary courses that combine sociology and psychology?"
     ]
 }
