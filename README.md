@@ -68,6 +68,12 @@ After starting the chatbot, you can interact with it by typing commands related 
 
 Remember, the chatbot is designed to understand natural language, so feel free to phrase your requests in a way that feels natural to you. It uses keywords from your input to determine the intent and respond accordingly.
 
+## Comparison with Naive Bayes Classifier
+
+The last cell of the of notebook executes a comparison of the two approaches to identify intents.
+It is necessary that the previous cells are run so all dependecies and the chatbot object are available.
+The output of the function may vary with each run as the test and train set are randomly selected with each creation of the chatbot object.
+
 # Team Pacman:
 
 - [Furkan Ali Yurdakul](https://github.com/furkanaliyurdakul)
